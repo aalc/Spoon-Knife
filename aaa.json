@@ -5,22 +5,22 @@
             {
                 "name": "abdullah",
                 "number": "111",
-                "isfree": "0"
+                "isfree": "false"
             },
             {
                 "name": "ahmed",
                 "number": "222",
-                "isfree": "0"
+                "isfree": "true"
             },
             {
                 "name": "Ibra",
                 "number": "333",
-                "isfree": "0"
+                "isfree": "true"
             },
             {
                 "name": "waleed",
                 "number": "444",
-                "isfree": "1"
+                "isfree": "false"
             }
 
         ]
